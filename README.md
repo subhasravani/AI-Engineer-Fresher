@@ -1,4 +1,4 @@
-I-Powered Communication Assistant
+AI-Powered Communication Assistant
 This project implements a basic AI-powered communication assistant designed to process support emails. It filters emails based on keywords, extracts key information, performs sentiment analysis, prioritizes urgent emails, and generates draft responses using a placeholder LLM.
 
 Features
